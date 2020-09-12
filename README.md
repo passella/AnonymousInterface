@@ -1,0 +1,2 @@
+# AnonymousInterface
+ Delphi Anonymous Interface
